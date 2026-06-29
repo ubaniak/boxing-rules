@@ -4,7 +4,7 @@
   "description": "Claude Code skill for answering boxing rules, regulations, and competition procedures",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bhavekbudhia/boxing-rules"
+    "url": "https://github.com/ubaniak/boxing-rules"
   },
   "license": "MIT",
   "keywords": [

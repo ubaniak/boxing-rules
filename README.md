@@ -7,7 +7,7 @@ A Claude Code skill that answers questions about boxing rules, regulations, and 
 Install this skill into your Claude Code agent with a single command:
 
 ```bash
-npx skills@latest add bhavekbudhia/boxing-rules
+npx skills@latest add ubaniak/boxing-rules
 ```
 
 The installer will:

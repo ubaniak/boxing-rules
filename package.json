@@ -1,0 +1,22 @@
+{
+  "name": "boxing-rules",
+  "version": "1.0.0",
+  "description": "Claude Code skill for answering boxing rules, regulations, and competition procedures",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhavekbudhia/boxing-rules"
+  },
+  "license": "MIT",
+  "keywords": [
+    "boxing",
+    "rules",
+    "regulations",
+    "skill",
+    "claude-code"
+  ],
+  "files": [
+    "SKILL.md",
+    "references/",
+    ".claude-plugin/"
+  ]
+}
